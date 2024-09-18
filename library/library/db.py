@@ -1,5 +1,4 @@
 import psycopg2
-from psycopg2 import pool
 from django.conf import settings
 
 class Database:
